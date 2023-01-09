@@ -1,1 +1,1 @@
-# woc5.0-python-word-clone-and-installer--harshit-
+# woc5.0-python-word-clone-and-installer-<harshit>
